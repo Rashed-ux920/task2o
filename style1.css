@@ -1,0 +1,12 @@
+.main{
+    width: 90em;
+    height: 50em;
+    background: #980486;
+    display: flex;
+}
+.chaild{
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+    background: #ffffff;
+}

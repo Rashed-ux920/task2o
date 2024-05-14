@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: #fff;
+}
+.contaner{
+    display: flex;
+    justify-content: center;
+}
+#green{
+    background: #0fa777;
+}
+#blue{
+    background: #3908ca;
+}
+#purple{
+    background: #68058f;
+}
+#smokyblack{
+    background: #352d2d;
+}
+#yellow{
+    background: rgb(255, 234, 0);
+}
+#orange{
+    background: orange;
+}
+#red{
+    background: red;
+}
+#gray{
+    background: gray;
+}
+#lightgreen{
+    background: greenyellow;
+}
+#green1{
+    background: #138e0f;
+}

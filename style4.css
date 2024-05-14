@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    display: flex;
+    align-items: center;
+}
+.alpha{
+    width: 30em;
+    height: 15em;
+    margin: 5px;
+    border-radius: 5px;
+    background: #1e09d8;
+    box-shadow: 5px 10px 8px 10px #4431f4;
+}
+.alpha h3{
+    margin-top: 5px;
+    margin-left: 5px;
+}

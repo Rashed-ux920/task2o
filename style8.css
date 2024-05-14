@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: aliceblue;
+}
+
+.contaner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 200px;
+}
+.father1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #1dbe50;
+    width: 75%;
+}
+.father2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 25%;
+    background: rgb(0, 89, 255);
+}
+.children1{
+    margin: 10px;
+}
